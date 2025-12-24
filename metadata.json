@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CrisisCommand AI",
+  "description": "An autonomous AI Incident Commander designed to assist first responders by analyzing live drone, CCTV, and audio feeds in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
